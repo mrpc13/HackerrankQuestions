@@ -21,6 +21,7 @@ If you have **suggestions**, **alternative approaches**, or **optimized solution
 [![YouTube (Clash Royale)](https://img.shields.io/badge/YouTube%20(Clash%20Royale)-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC6D8Q8J_m_irAyyLPaap5hA)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mrpclash)  
 
+
 ---
 
 💡 *"Keep coding, keep improving!"*  
