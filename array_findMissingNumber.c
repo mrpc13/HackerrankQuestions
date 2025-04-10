@@ -2,7 +2,6 @@
 int main() {
     int N;
     scanf("%d", &N);
-
     int arr[N - 1];
     int total = N * (N + 1) / 2;
     int sum = 0;
