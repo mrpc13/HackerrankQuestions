@@ -15,7 +15,5 @@ int main() {
     {
         printf("Yes");
     }
-        
-    
       return 0;
 }
