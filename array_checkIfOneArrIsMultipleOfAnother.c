@@ -11,7 +11,6 @@ void sortArray(int A[], int size1) {
         }
     }
 }
-
 int main() {
     int size1;
     scanf("%d", &size1);
