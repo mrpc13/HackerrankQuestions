@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 void sortArray(int A[], int size1) {
     for (int i = 0; i <= size1 - 2; i++) {
         for (int j = 0; j <= size1 - i - 2; j++) {
