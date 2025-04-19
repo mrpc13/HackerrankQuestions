@@ -4,7 +4,6 @@ void findUnionAndIntersection(int arr1[], int n1, int arr2[], int n2) {
     int unionArr[n1 + n2];
     int intersectionArr[n1 < n2 ? n1 : n2];
     int unionIndex = 0, intersectionIndex = 0;
-
     while (i < n1 && j < n2) {
         if (arr1[i] < arr2[j]) {
             unionArr[unionIndex++] = arr1[i++];
